@@ -106,16 +106,15 @@ For the family income, we found a family's income above 125000 is a significant 
 Among those variables we choose, we think age, education, individual income and culture are the most significant factors. Hence we plot bar charts to show the percentage of people living with their parents in groups.
 
 ![Caption fot the pictures.](D:\pic\figure 1.png)
-As figure 1 shows, most of the cases who are under 19 are living with their parents and there are also plenty of people who are 20-29 choosing to live with parents. For those who are over 40, they almost do not live with parents.
-
+As figure 1 shows, with the growth of age, the percentage of people living with parents is decreasing.
 ![Caption fot the pictures.](D:\pic\figure 2.png)
-In figure 2, we can see that people whose individual income is lower than $50,000 are more likely to live with parents.
+In Figure 2, we divided people into different income ranges.  As we can see people with an income lower than 50000 tend to live with parents.
 
 ![Caption fot the pictures.](D:\pic\figure 3.png)
-In figure 3, the percentage of living with parents is highest for those who have a high school and below degree. On the contrary, people who receive a degree above bachelor are those most unlikely to live with parents.
+In figure 3, we divided people into different education backgrounds, and we can see people who have a high school and below education background tend to live with parents.
 
 ![Caption fot the pictures.](D:\pic\figure 4.png)
-As figure 4 shows, the different cultural backgrounds result in differently. 
+As figure 4 shows, the different cultures had different performances on living arrangements. We could obviously observe that the families speaking English( and non-official language ), the families speaking French and non official language and the families speaking non official language, were preferred to living with parents.
 
 #Weakness and shortcomings:
 
