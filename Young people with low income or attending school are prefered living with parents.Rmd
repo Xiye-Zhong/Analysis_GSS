@@ -13,6 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Living with parents was always a complex and sensitive topic, sometimes living with parents was seen as the symbol of immature and may cause many family issues, sometimes living with parents can reduce the pressure of living and economics, however, there were 9% of Canadian adults(aged 25 to 64) live with parents in 2019 and has been since 1995. In this report, we are studying what factors aspect the families living arrangement and what kinds of adults or families would rather to live with parents, such that, we selected some variables we thought may be related to living arrangements based on data from the General Social Survey (GSS) on Family, then analysed the data by using a binomial logistic regression model and expressed the probability of living with parents in graph. We found that age, income level, education and language(culture) all significant to living arrangement, furthermore, the young adults below 30 years old are more likely to live with parents and the adults with low income or had lower education may prefer to live with parents. About 4% (1 million) Canadians said that they considered moving back with parents, this research may help the people who are hesitating whether to live with parents to make their decision and may help the government predict the pension pressure.
 
+This file and data cleaning code can also be found at https://github.com/Xiye-Zhong/Analysis_GSS
 
 #Introduction:
 
